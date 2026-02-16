@@ -1,5 +1,5 @@
 ##### Glider Metabolism Script #####
-##### Nolan Pearce (nolanpearce@trentu.ca) Nov. 2022 #####
+##### Sasindu Gunawardana 2026 #####
 
 # Required packages
 library(rLakeAnalyzer)
@@ -21,7 +21,7 @@ library(bayestestR)
 # Save optional data here too. 
 
 ##### EDIT CODE BELOW #####
-setwd("C:\\Users\\sasin\\Sync\\Sasindu\\Trent Metabolism\\Lake Superior\\2014\\NOKOMIS_OCT30_NOV13")
+setwd("")
 ##### EDIT CODE ABOVE #####
 
 # Read in the raw data from DAC. Need to use the readr package to increase
